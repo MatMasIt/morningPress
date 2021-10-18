@@ -1,4 +1,7 @@
 # morningPress
+
+![GitHub](https://img.shields.io/github/license/MatMasIt/morningPress)
+
 A morning welcome from my dot matrix printer
 
 
